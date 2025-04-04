@@ -1,0 +1,258 @@
+product_id,product_name,category,brand,price,mrp,margin_percentage,shelf_life_days,min_stock_level,max_stock_level
+168189,veniam nisi,Fruits & Vegetables,"Badal, Pal and Naik",683.34,911.12,25.0,3,30,59
+900843,eum reiciendis,Fruits & Vegetables,Kala-Mann,165.25,220.33,25.0,3,12,99
+677519,quod numquam,Fruits & Vegetables,Nagi and Sons,739.64,986.19,25.0,3,19,88
+87232,aperiam voluptatem,Fruits & Vegetables,Pal PLC,775.52,1034.03,25.0,3,28,77
+331746,voluptate iusto,Fruits & Vegetables,Mann-Samra,438.26,584.35,25.0,3,17,61
+745079,exercitationem magni,Fruits & Vegetables,Narain-Sarma,893.4,1191.2,25.0,3,14,90
+893532,quo magni,Fruits & Vegetables,Ranganathan-Mallick,464.71,619.61,25.0,3,10,78
+940210,suscipit dolorem,Fruits & Vegetables,"Krishnan, Bandi and Karnik",49.88,66.51,25.0,3,15,62
+258052,enim omnis,Fruits & Vegetables,"Atwal, Viswanathan and Ganesh",705.77,941.03,25.0,3,25,88
+348675,error perspiciatis,Fruits & Vegetables,Varughese Group,601.95,802.6,25.0,3,16,79
+200484,asperiores repellendus,Fruits & Vegetables,Kaul Ltd,301.0,401.33,25.0,3,19,60
+928503,totam ea,Fruits & Vegetables,Venkataraman and Sons,873.92,1165.23,25.0,3,16,93
+123434,deleniti quisquam,Fruits & Vegetables,Kale Group,294.99,393.32,25.0,3,24,65
+853970,occaecati quasi,Fruits & Vegetables,Nagar LLC,916.0,1221.33,25.0,3,14,78
+29886,aliquam vel,Fruits & Vegetables,"Sura, Singhal and Gole",459.82,613.09,25.0,3,17,60
+376349,autem debitis,Fruits & Vegetables,"Kothari, Dave and Sen",215.58,287.44,25.0,3,24,64
+544278,cum ducimus,Fruits & Vegetables,"Hegde, Chowdhury and Chadha",535.09,713.45,25.0,3,28,86
+728054,assumenda sapiente,Fruits & Vegetables,Tiwari LLC,132.16,176.21,25.0,3,17,86
+439517,quae perspiciatis,Fruits & Vegetables,Date LLC,742.25,989.67,25.0,3,10,69
+754218,vitae officia,Fruits & Vegetables,"Sastry, Roy and Rattan",685.85,914.47,25.0,3,18,83
+699235,incidunt enim,Fruits & Vegetables,Dhar Ltd,853.33,1137.77,25.0,3,13,74
+458063,officia eos,Fruits & Vegetables,Gokhale-Tank,24.63,32.84,25.0,3,30,96
+40390,perspiciatis unde,Fruits & Vegetables,"Grewal, Seth and Sha",891.7,1188.93,25.0,3,25,50
+944051,velit dolores,Fruits & Vegetables,Jaggi-Badami,890.71,1187.61,25.0,3,30,98
+251251,labore tenetur,Fruits & Vegetables,"Talwar, Bansal and Pillay",823.68,1098.24,25.0,3,21,60
+149528,optio aliquam,Fruits & Vegetables,Goda-Comar,302.48,403.31,25.0,3,20,74
+944607,pariatur quod,Fruits & Vegetables,Khatri Inc,373.78,498.37,25.0,3,14,62
+668671,cupiditate nostrum,Fruits & Vegetables,Shenoy LLC,759.57,1012.76,25.0,3,17,50
+371588,nostrum ratione,Fruits & Vegetables,"Varma, Sur and Ram",974.32,1299.09,25.0,3,17,78
+144100,ea dicta,Fruits & Vegetables,Banik and Sons,52.48,69.97,25.0,3,20,88
+605459,porro commodi,Dairy & Breakfast,Tata-Mann,498.79,623.49,20.0,7,18,54
+341804,ipsam repudiandae,Dairy & Breakfast,Sunder PLC,236.33,295.41,20.0,7,26,74
+369485,ullam deleniti,Dairy & Breakfast,"Thakkar, Verma and Madan",711.32,889.15,20.0,7,20,73
+940571,tempora perferendis,Dairy & Breakfast,Palla-Raval,176.34,220.42,20.0,7,21,52
+820524,itaque voluptatum,Dairy & Breakfast,Amble-Sagar,694.37,867.96,20.0,7,30,60
+125332,natus ratione,Dairy & Breakfast,Tella-Bassi,864.78,1080.97,20.0,7,12,100
+286213,voluptatem inventore,Dairy & Breakfast,Kothari PLC,474.01,592.51,20.0,7,19,66
+275513,facilis eaque,Dairy & Breakfast,"Kar, Bhat and Devan",210.76,263.45,20.0,7,27,69
+915858,non minus,Dairy & Breakfast,"Rana, Arora and Gara",614.58,768.23,20.0,7,13,66
+899834,omnis eum,Dairy & Breakfast,Rege-Bhattacharyya,946.49,1183.11,20.0,7,29,54
+674050,itaque quam,Dairy & Breakfast,Mukherjee PLC,864.28,1080.35,20.0,7,16,86
+294304,magni blanditiis,Dairy & Breakfast,"Thakur, Mall and Nadkarni",660.78,825.97,20.0,7,20,70
+811752,id cum,Dairy & Breakfast,Halder Ltd,234.9,293.62,20.0,7,11,81
+485238,est at,Dairy & Breakfast,Dubey LLC,826.61,1033.26,20.0,7,23,61
+89882,quasi facilis,Dairy & Breakfast,"Singh, Narang and Ravel",16.83,21.04,20.0,7,21,95
+742827,saepe earum,Dairy & Breakfast,"Pall, More and Rattan",905.33,1131.66,20.0,7,19,51
+655243,quod cumque,Dairy & Breakfast,"Dayal, Deshmukh and Dyal",940.55,1175.69,20.0,7,18,71
+729939,debitis modi,Dairy & Breakfast,Bedi-Khurana,150.34,187.92,20.0,7,30,91
+797923,explicabo exercitationem,Dairy & Breakfast,"Apte, Chawla and Ganesh",158.89,198.61,20.0,7,30,92
+620715,omnis accusantium,Dairy & Breakfast,Bumb-Oak,878.35,1097.94,20.0,7,18,55
+614871,eligendi expedita,Dairy & Breakfast,"Chada, Wable and Ahuja",252.44,315.55,20.0,7,16,68
+694498,hic optio,Dairy & Breakfast,Pradhan Group,814.26,1017.82,20.0,7,22,76
+638281,harum ipsa,Dairy & Breakfast,Chadha-Borde,40.97,51.21,20.0,7,22,77
+870697,iure eos,Dairy & Breakfast,Sarraf PLC,165.52,206.9,20.0,7,11,86
+74698,possimus facilis,Dairy & Breakfast,"More, Dugar and Choudhary",794.78,993.47,20.0,7,11,71
+916277,nam animi,Snacks & Munchies,Wadhwa-Ben,387.59,596.29,35.0,90,21,83
+200071,excepturi accusamus,Snacks & Munchies,Tailor Inc,973.69,1497.98,35.0,90,21,85
+380331,cumque quidem,Snacks & Munchies,Khurana and Sons,139.93,215.28,35.0,90,25,64
+12375,vel earum,Snacks & Munchies,"Mohanty, Chaudhari and Devan",891.66,1371.78,35.0,90,26,60
+909544,blanditiis ut,Snacks & Munchies,"Kibe, Panchal and Sundaram",640.69,985.68,35.0,90,22,87
+695658,ratione magni,Snacks & Munchies,Amble and Sons,822.83,1265.89,35.0,90,11,54
+543611,cumque unde,Snacks & Munchies,Tiwari Group,891.15,1371.0,35.0,90,22,83
+432240,saepe fugiat,Snacks & Munchies,Batra-Lal,974.63,1499.43,35.0,90,16,92
+844840,quisquam possimus,Snacks & Munchies,Kalita Inc,132.39,203.68,35.0,90,24,58
+86795,eveniet incidunt,Snacks & Munchies,"Joshi, Sharaf and Chaudry",730.28,1123.51,35.0,90,13,79
+395969,cum perferendis,Snacks & Munchies,Nagi LLC,205.59,316.29,35.0,90,24,59
+89747,provident eaque,Snacks & Munchies,Patla LLC,201.35,309.77,35.0,90,17,94
+270362,deserunt sunt,Snacks & Munchies,Narasimhan Ltd,34.02,52.34,35.0,90,12,89
+525289,dicta nostrum,Snacks & Munchies,"Buch, Kannan and Mani",473.91,729.09,35.0,90,14,81
+15812,possimus atque,Snacks & Munchies,"Zachariah, Garg and Sarkar",265.55,408.54,35.0,90,12,60
+833249,voluptatem temporibus,Snacks & Munchies,Bhargava-Varghese,879.11,1352.48,35.0,90,13,87
+362256,molestias provident,Snacks & Munchies,Bhat-Koshy,863.38,1328.28,35.0,90,17,85
+814744,sit architecto,Cold Drinks & Juices,Gandhi and Sons,533.75,762.5,30.0,180,17,83
+364962,magni laborum,Cold Drinks & Juices,"Sandhu, Toor and Raja",499.12,713.03,30.0,180,13,69
+480353,at quo,Cold Drinks & Juices,Savant-Sachdeva,95.06,135.8,30.0,180,15,51
+622068,odit cumque,Cold Drinks & Juices,Cheema-Parsa,726.58,1037.97,30.0,180,15,86
+819811,rerum ipsam,Cold Drinks & Juices,"Khanna, Pai and Peri",354.93,507.04,30.0,180,15,100
+228180,consequatur doloremque,Cold Drinks & Juices,Rastogi and Sons,520.65,743.79,30.0,180,11,96
+813361,id sapiente,Cold Drinks & Juices,D’Alia Ltd,132.06,188.66,30.0,180,12,75
+887362,distinctio adipisci,Cold Drinks & Juices,Dyal LLC,894.56,1277.94,30.0,180,27,93
+161640,incidunt cumque,Cold Drinks & Juices,"Prasad, Soman and Agate",314.81,449.73,30.0,180,28,77
+869831,sequi quo,Cold Drinks & Juices,"Virk, Som and Loke",487.75,696.79,30.0,180,27,95
+150354,voluptatibus quos,Cold Drinks & Juices,"Shanker, Narang and Virk",182.5,260.71,30.0,180,27,58
+368258,libero accusantium,Cold Drinks & Juices,"Ramanathan, Borde and Mohanty",996.72,1423.89,30.0,180,20,77
+897069,nulla vitae,Cold Drinks & Juices,Bath-Dara,56.21,80.3,30.0,180,10,73
+963044,quod minima,Cold Drinks & Juices,Ram-Ghosh,305.23,436.04,30.0,180,26,70
+257694,voluptatibus quod,Cold Drinks & Juices,Sehgal Inc,65.47,93.53,30.0,180,22,81
+89163,ipsa quis,Cold Drinks & Juices,Misra Group,12.4,17.71,30.0,180,30,60
+284761,iusto delectus,Cold Drinks & Juices,Chakraborty PLC,268.29,383.27,30.0,180,28,56
+727988,saepe ut,Cold Drinks & Juices,"Madan, Manda and Pai",869.72,1242.46,30.0,180,29,91
+256161,voluptas nesciunt,Cold Drinks & Juices,Comar-Sachdev,865.06,1235.8,30.0,180,18,100
+670237,odio dicta,Cold Drinks & Juices,Baria-Sahni,484.13,691.61,30.0,180,15,89
+979648,voluptatibus neque,Instant & Frozen Food,Gill-Nagarajan,589.29,982.15,40.0,180,20,100
+586583,voluptates id,Instant & Frozen Food,"Deshpande, Master and Bhattacharyya",790.97,1318.28,40.0,180,10,82
+93673,odit blanditiis,Instant & Frozen Food,Borra-Chander,64.44,107.4,40.0,180,22,80
+975813,assumenda quisquam,Instant & Frozen Food,"Parikh, Ahuja and Jha",638.05,1063.42,40.0,180,16,52
+839893,recusandae quo,Instant & Frozen Food,"Ben, Bhardwaj and Ramanathan",296.81,494.68,40.0,180,30,56
+156223,eius soluta,Instant & Frozen Food,"Tank, Sanghvi and Aurora",47.63,79.38,40.0,180,29,74
+265210,nobis rem,Instant & Frozen Food,Dhingra Group,525.21,875.35,40.0,180,14,58
+321047,accusantium vitae,Instant & Frozen Food,"Minhas, Peri and Gara",136.6,227.67,40.0,180,14,74
+845028,cupiditate et,Instant & Frozen Food,Ranganathan-Gala,862.44,1437.4,40.0,180,16,81
+179466,magni possimus,Instant & Frozen Food,"Gaba, Kibe and Sidhu",254.81,424.68,40.0,180,21,71
+842225,quis a,Instant & Frozen Food,Halder-Kari,583.04,971.73,40.0,180,13,64
+352846,modi ratione,Instant & Frozen Food,"Dara, Randhawa and Dugar",339.67,566.12,40.0,180,19,64
+686129,distinctio animi,Instant & Frozen Food,Raval-Gola,123.3,205.5,40.0,180,10,75
+403396,facere non,Instant & Frozen Food,"Gala, Ravel and Ray",265.0,441.67,40.0,180,22,64
+967147,aperiam eum,Instant & Frozen Food,"Ramesh, Bassi and Basu",703.46,1172.43,40.0,180,17,69
+951862,quis ipsa,Instant & Frozen Food,Chandra and Sons,264.12,440.2,40.0,180,19,95
+136809,quo quo,Instant & Frozen Food,Sathe and Sons,731.89,1219.82,40.0,180,30,86
+291446,voluptates perferendis,Instant & Frozen Food,Bhavsar-Palla,207.42,345.7,40.0,180,10,60
+183785,totam culpa,Instant & Frozen Food,Dey-Pingle,717.16,1195.27,40.0,180,16,63
+623620,sint assumenda,Instant & Frozen Food,"Mani, Rana and Das",768.28,1280.47,40.0,180,30,81
+440206,consequatur reiciendis,Instant & Frozen Food,Boase-Warrior,776.8,1294.67,40.0,180,27,69
+821152,fugit consectetur,Instant & Frozen Food,Apte-Ravi,825.93,1376.55,40.0,180,21,75
+443318,vero at,Instant & Frozen Food,"Bhattacharyya, Majumdar and Mutti",635.37,1058.95,40.0,180,21,55
+726061,exercitationem occaecati,Instant & Frozen Food,Kumer-Kapadia,313.45,522.42,40.0,180,22,57
+497159,perferendis tempore,Instant & Frozen Food,"Lanka, Khare and Nigam",49.85,83.08,40.0,180,13,74
+752070,qui voluptatem,Grocery & Staples,Kulkarni Inc,500.49,588.81,15.0,365,27,67
+812030,voluptatem quia,Grocery & Staples,Butala-Varughese,234.38,275.74,15.0,365,20,72
+705640,at amet,Grocery & Staples,Sastry Ltd,642.72,756.14,15.0,365,19,87
+710569,atque quisquam,Grocery & Staples,Luthra-Dube,455.34,535.69,15.0,365,14,99
+660019,repellendus quae,Grocery & Staples,"Bhatia, Ramaswamy and Rajagopalan",853.82,1004.49,15.0,365,12,57
+484190,harum ducimus,Grocery & Staples,"Mani, Salvi and Lala",312.59,367.75,15.0,365,25,70
+228227,nostrum laborum,Grocery & Staples,Chowdhury Ltd,437.35,514.53,15.0,365,15,90
+868386,dolores itaque,Grocery & Staples,Mistry-Yogi,672.26,790.89,15.0,365,17,78
+771312,doloremque expedita,Grocery & Staples,Ramachandran LLC,851.88,1002.21,15.0,365,20,74
+500973,fugiat voluptatibus,Grocery & Staples,"Wali, Krishnamurthy and Yohannan",84.74,99.69,15.0,365,28,84
+632047,voluptas qui,Grocery & Staples,"Swaminathan, Tank and Munshi",861.83,1013.92,15.0,365,20,51
+638530,incidunt tempora,Grocery & Staples,Trivedi PLC,411.44,484.05,15.0,365,29,94
+854259,deleniti voluptatem,Grocery & Staples,"Dar, Doctor and Ramanathan",995.36,1171.01,15.0,365,22,59
+138740,enim est,Grocery & Staples,Iyer PLC,795.29,935.64,15.0,365,27,93
+928629,vel excepturi,Grocery & Staples,"Badal, Pal and Hora",184.86,217.48,15.0,365,13,79
+438534,iusto ad,Grocery & Staples,"Minhas, Thaker and Dora",686.59,807.75,15.0,365,12,63
+118683,odit doloremque,Grocery & Staples,Sahota Inc,458.7,539.65,15.0,365,13,59
+651035,quidem facilis,Grocery & Staples,"Varghese, Barad and Rau",169.7,199.65,15.0,365,11,59
+698665,illum soluta,Household Care,Dutta-Oommen,185.45,247.27,25.0,365,20,94
+345064,sapiente porro,Household Care,Bhatt and Sons,811.55,1082.07,25.0,365,24,88
+72216,exercitationem inventore,Household Care,Sahota-Sharma,399.54,532.72,25.0,365,25,66
+671879,odit esse,Household Care,Lata Group,846.19,1128.25,25.0,365,27,64
+481913,ab fugiat,Household Care,Pau-Saxena,725.89,967.85,25.0,365,16,51
+883010,id quod,Household Care,Bahri-Mandal,679.17,905.56,25.0,365,11,96
+328693,ullam veniam,Household Care,Garde Inc,406.65,542.2,25.0,365,28,94
+10899,id dignissimos,Household Care,"Salvi, Solanki and Chaudhuri",117.27,156.36,25.0,365,10,88
+793670,odit illum,Household Care,"Soman, Oza and Chauhan",787.99,1050.65,25.0,365,18,59
+294632,distinctio nostrum,Household Care,"Bora, Sura and Kamdar",994.18,1325.57,25.0,365,17,99
+260641,minus est,Household Care,Narang-Dayal,371.56,495.41,25.0,365,23,58
+709627,occaecati deleniti,Household Care,Kapadia-Vohra,863.75,1151.67,25.0,365,28,90
+683817,est praesentium,Household Care,"Majumdar, Kunda and Dixit",65.44,87.25,25.0,365,19,64
+524927,a dignissimos,Household Care,Kala-Chokshi,566.29,755.05,25.0,365,24,80
+933267,eveniet laboriosam,Household Care,Sahota-Sundaram,326.17,434.89,25.0,365,18,60
+652951,neque fugit,Household Care,Chand Group,717.9,957.2,25.0,365,11,84
+920617,accusamus iste,Household Care,Tiwari-Shukla,822.85,1097.13,25.0,365,23,94
+275522,assumenda in,Household Care,"Salvi, Sridhar and Pai",412.28,549.71,25.0,365,29,66
+890168,occaecati quisquam,Household Care,Ahuja Group,590.96,787.95,25.0,365,25,67
+734865,fugiat at,Household Care,Sagar Group,110.91,147.88,25.0,365,21,91
+371368,ea at,Household Care,"Sehgal, Kala and Khanna",730.37,973.83,25.0,365,16,77
+924085,recusandae voluptatum,Household Care,Kara Inc,496.16,661.55,25.0,365,27,83
+446394,rem consequuntur,Household Care,"Tripathi, Behl and Iyer",921.22,1228.29,25.0,365,22,92
+123905,possimus deleniti,Household Care,Contractor-Devi,381.8,509.07,25.0,365,27,53
+641815,aliquid aliquid,Household Care,Contractor and Sons,946.35,1261.8,25.0,365,21,80
+49619,quibusdam libero,Household Care,Mallick PLC,365.61,487.48,25.0,365,23,67
+779618,assumenda quibusdam,Household Care,Chopra-Om,104.04,138.72,25.0,365,15,96
+260935,corrupti a,Household Care,Venkataraman Group,193.92,258.56,25.0,365,28,73
+596689,quos culpa,Household Care,"Tripathi, Balasubramanian and Karan",839.69,1119.59,25.0,365,11,88
+413502,aliquam nulla,Personal Care,Walla-Gola,682.14,1049.45,35.0,365,14,59
+201468,maxime placeat,Personal Care,Muni Inc,492.44,757.6,35.0,365,19,74
+165879,autem possimus,Personal Care,"Hegde, Sood and Naik",421.23,648.05,35.0,365,19,91
+811749,incidunt deserunt,Personal Care,Kale-Sem,987.95,1519.92,35.0,365,13,86
+203992,debitis dolorum,Personal Care,"Bakshi, Kumar and Bandi",910.67,1401.03,35.0,365,16,100
+368876,quasi consequatur,Personal Care,Sampath-Balasubramanian,119.0,183.08,35.0,365,18,67
+183338,id expedita,Personal Care,"Malhotra, Chadha and Bedi",631.1,970.92,35.0,365,15,60
+14532,aliquam voluptate,Personal Care,"Manda, Devi and Edwin",922.91,1419.86,35.0,365,30,50
+639547,omnis debitis,Personal Care,Buch Inc,853.3,1312.77,35.0,365,15,58
+957335,eius necessitatibus,Personal Care,Bobal Ltd,130.96,201.48,35.0,365,19,64
+547545,error tenetur,Personal Care,Prakash PLC,754.78,1161.2,35.0,365,14,59
+57043,repudiandae excepturi,Personal Care,Sachdev-Sama,779.86,1199.78,35.0,365,24,63
+423700,molestias error,Personal Care,Nagy-Shankar,533.03,820.05,35.0,365,13,78
+622443,praesentium saepe,Personal Care,Vohra Inc,795.45,1223.77,35.0,365,11,53
+437356,ratione repudiandae,Personal Care,"Kanda, Setty and Muni",407.93,627.58,35.0,365,20,59
+560033,hic delectus,Personal Care,Setty-Bhatti,786.93,1210.66,35.0,365,20,83
+611558,perferendis a,Personal Care,Anne PLC,724.76,1115.02,35.0,365,27,88
+529285,accusantium modi,Personal Care,Purohit-Mander,307.07,472.42,35.0,365,25,96
+543290,eius qui,Personal Care,Majumdar Ltd,699.27,1075.8,35.0,365,28,50
+743047,aliquam iure,Personal Care,"Raj, Mammen and Srivastava",589.13,906.35,35.0,365,20,59
+536696,earum dolorem,Personal Care,Purohit-Sami,925.19,1423.37,35.0,365,15,77
+209197,quos eos,Baby Care,"Bansal, Handa and Morar",737.14,1053.06,30.0,365,13,62
+847856,commodi nemo,Baby Care,"Kanda, Sule and Krishna",871.12,1244.46,30.0,365,26,59
+384956,sapiente necessitatibus,Baby Care,Sani PLC,343.25,490.36,30.0,365,20,99
+747167,velit non,Baby Care,"Randhawa, Gole and Dubey",445.74,636.77,30.0,365,15,73
+636823,optio minus,Baby Care,Kunda-Narang,832.03,1188.61,30.0,365,11,76
+378432,natus iure,Baby Care,"Patel, Mani and Balan",67.41,96.3,30.0,365,12,74
+570140,velit praesentium,Baby Care,"Bala, Cheema and Prakash",538.55,769.36,30.0,365,13,54
+77948,vel aperiam,Baby Care,Parmar LLC,688.27,983.24,30.0,365,28,81
+807836,voluptatum dignissimos,Baby Care,Sant LLC,625.61,893.73,30.0,365,23,59
+811512,animi nemo,Baby Care,Bath Group,494.01,705.73,30.0,365,20,100
+283088,ullam voluptate,Baby Care,Lal PLC,37.8,54.0,30.0,365,29,66
+235314,recusandae deserunt,Baby Care,Dave-Wadhwa,857.56,1225.09,30.0,365,12,93
+624317,occaecati quae,Baby Care,Yadav-Sachdeva,89.39,127.7,30.0,365,24,81
+554301,totam et,Baby Care,"Sastry, Sarma and Anand",49.04,70.06,30.0,365,29,62
+171073,sed quam,Baby Care,Bhargava-Sami,731.28,1044.69,30.0,365,29,95
+518155,delectus sit,Baby Care,Palan Inc,627.7,896.71,30.0,365,10,97
+333369,rem repudiandae,Baby Care,Agarwal Inc,417.01,595.73,30.0,365,12,63
+150034,quaerat id,Baby Care,"Deep, Ramanathan and Gill",545.86,779.8,30.0,365,15,78
+128005,eaque similique,Baby Care,Iyengar PLC,920.94,1315.63,30.0,365,29,57
+922850,sequi dolorem,Baby Care,Ghose-Yadav,808.01,1154.3,30.0,365,25,78
+36821,deserunt ut,Baby Care,"Sahni, Walia and Virk",768.07,1097.24,30.0,365,12,58
+790197,expedita iure,Baby Care,Jaggi-Narasimhan,111.39,159.13,30.0,365,13,93
+728192,nisi molestiae,Baby Care,Chowdhury PLC,207.09,295.84,30.0,365,25,82
+44552,repellat accusantium,Baby Care,Pau PLC,534.25,763.21,30.0,365,23,66
+651494,aperiam quas,Baby Care,Johal-Mani,33.15,47.36,30.0,365,30,96
+383693,dolorem laborum,Pet Care,Bahl Group,471.25,725.0,35.0,365,14,87
+641360,harum iusto,Pet Care,"Vala, Yohannan and Mohan",480.93,739.89,35.0,365,15,95
+223199,voluptate laborum,Pet Care,"Gandhi, Nagarajan and Kara",92.36,142.09,35.0,365,28,99
+512491,id optio,Pet Care,"Lalla, Nanda and Issac",397.89,612.14,35.0,365,21,56
+406167,vero distinctio,Pet Care,Gill and Sons,991.14,1524.83,35.0,365,13,95
+610383,exercitationem eos,Pet Care,Krishnamurthy Inc,942.37,1449.8,35.0,365,21,81
+124917,labore fugiat,Pet Care,"Raja, Nadig and Verma",813.36,1251.32,35.0,365,11,86
+775574,ipsum facere,Pet Care,"Ray, Dubey and Anne",887.88,1365.97,35.0,365,16,80
+740869,est reiciendis,Pet Care,"Ahluwalia, Jha and Badal",132.89,204.45,35.0,365,21,91
+357253,quae ad,Pet Care,Palan Inc,935.65,1439.46,35.0,365,22,59
+580859,aliquam delectus,Pet Care,"Uppal, Baral and Goswami",603.89,929.06,35.0,365,11,71
+851540,a perspiciatis,Pet Care,Sandhu-Deshmukh,769.92,1184.49,35.0,365,10,61
+247454,asperiores vitae,Pet Care,Balasubramanian and Sons,119.36,183.63,35.0,365,29,85
+785164,adipisci accusamus,Pet Care,Bora-Rattan,332.29,511.22,35.0,365,15,85
+453194,sunt minima,Pet Care,"Date, Dani and Dara",37.36,57.48,35.0,365,24,81
+774970,tempora debitis,Pet Care,Ben-Bali,388.92,598.34,35.0,365,30,91
+210739,dolorum fugit,Pet Care,Kibe LLC,969.37,1491.34,35.0,365,30,99
+538791,laborum saepe,Pet Care,"Chana, Swaminathan and Balay",775.75,1193.46,35.0,365,11,81
+139452,provident deserunt,Pet Care,"D’Alia, Sodhi and Munshi",789.29,1214.29,35.0,365,26,87
+200874,temporibus consequatur,Pet Care,Mukherjee-Bahl,545.5,839.23,35.0,365,13,74
+598151,quas officia,Pet Care,Iyer-Hayer,998.54,1536.22,35.0,365,10,73
+268063,repellat magnam,Pet Care,Mandal-Yadav,541.26,832.71,35.0,365,16,54
+49099,ea perspiciatis,Pharmacy,Mallick-Goel,928.45,1160.56,20.0,365,23,68
+533341,quia quos,Pharmacy,"Panchal, Narasimhan and Gandhi",873.61,1092.01,20.0,365,18,68
+574117,numquam necessitatibus,Pharmacy,"Karan, Tak and Kalita",489.45,611.81,20.0,365,21,78
+70705,officiis dolorem,Pharmacy,Hari-Raj,373.76,467.2,20.0,365,18,72
+509437,consectetur blanditiis,Pharmacy,"Mitra, Chauhan and Kibe",628.82,786.02,20.0,365,15,82
+665684,eum quibusdam,Pharmacy,"Chandra, Natt and Barad",151.43,189.29,20.0,365,11,74
+225502,similique tenetur,Pharmacy,Desai Group,357.57,446.96,20.0,365,22,97
+341982,non aspernatur,Pharmacy,De-Thakkar,79.32,99.15,20.0,365,29,98
+389996,officiis officiis,Pharmacy,"Oza, Bhavsar and Mallick",144.88,181.1,20.0,365,24,71
+864758,recusandae nemo,Pharmacy,"Sandhu, Nayak and Varkey",952.0,1190.0,20.0,365,25,55
+499483,doloremque optio,Pharmacy,Babu Ltd,860.78,1075.97,20.0,365,15,59
+436415,magni autem,Pharmacy,Bobal-Venkataraman,613.72,767.15,20.0,365,26,73
+373515,in praesentium,Pharmacy,Suri-Sarna,864.3,1080.37,20.0,365,25,53
+863279,autem aspernatur,Pharmacy,Chatterjee-Basak,152.62,190.78,20.0,365,30,97
+778940,atque quo,Pharmacy,Vaidya and Sons,411.23,514.04,20.0,365,22,65
+333002,excepturi incidunt,Pharmacy,Trivedi Group,399.83,499.79,20.0,365,29,89
+115391,illum dolores,Pharmacy,Sunder Group,759.38,949.22,20.0,365,12,77
+55291,labore officiis,Pharmacy,"Saxena, Varma and Patla",742.68,928.35,20.0,365,20,84
+439817,numquam laboriosam,Pharmacy,Krishna-Tripathi,556.57,695.71,20.0,365,19,66
+791640,enim voluptatibus,Pharmacy,Ramanathan-Ganesan,314.25,392.81,20.0,365,26,51
+357841,repellendus error,Pharmacy,"Date, Rout and Sankaran",497.09,621.36,20.0,365,24,58
+548151,eligendi illum,Pharmacy,Hayer Group,279.3,349.12,20.0,365,11,56
+326280,reprehenderit inventore,Pharmacy,Bala PLC,712.71,890.89,20.0,365,16,92
+86354,soluta ut,Pharmacy,Nath-Jayaraman,359.33,449.16,20.0,365,19,75
+594989,sapiente cum,Pharmacy,Kohli-Sarna,109.78,137.22,20.0,365,23,93
